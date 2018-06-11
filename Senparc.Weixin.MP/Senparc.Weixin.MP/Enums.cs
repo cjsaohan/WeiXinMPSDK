@@ -6,7 +6,7 @@ using System.Text;
 namespace Senparc.Weixin.MP
 {
     /// <summary>
-    /// 接收消息类型
+    /// 接收消息类型  
     /// </summary>
     public enum RequestMsgType
     {
